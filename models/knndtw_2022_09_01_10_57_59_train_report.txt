@@ -1,0 +1,13 @@
+Tuning parameter time: 37.93413472734392
+parameters:
+{'n_neighbors': 3}
+Training time: 0.001202738843858242
+Inference time: 92.54647189797834
+              precision    recall  f1-score   support
+
+       False      0.992     0.997     0.995       375
+        True      0.976     0.932     0.953        44
+
+    accuracy                          0.990       419
+   macro avg      0.984     0.965     0.974       419
+weighted avg      0.990     0.990     0.990       419

@@ -1,0 +1,11 @@
+Tuning parameter time: 0.0
+Training time: 0.22298676893115044
+Inference time: 0.010390239767730236
+              precision    recall  f1-score   support
+
+       False      0.992     0.971     0.981       375
+        True      0.788     0.932     0.854        44
+
+    accuracy                          0.967       419
+   macro avg      0.890     0.951     0.918       419
+weighted avg      0.970     0.967     0.968       419

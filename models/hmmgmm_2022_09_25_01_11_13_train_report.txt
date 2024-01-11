@@ -1,0 +1,12 @@
+Tuning parameter time: 17971.299804288894
+Best params: {'n_components': 7, 'n_states': 5, 'topology': 'ergodic', 'repeat': True}
+Training time: 99.75187831185758
+Inference time: 7.399761534295976
+              precision    recall  f1-score   support
+
+       False      0.950     0.552     0.698       375
+        True      0.164     0.750     0.269        44
+
+    accuracy                          0.573       419
+   macro avg      0.557     0.651     0.484       419
+weighted avg      0.867     0.573     0.653       419

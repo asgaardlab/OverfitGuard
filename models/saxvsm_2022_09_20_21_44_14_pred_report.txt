@@ -1,0 +1,9 @@
+Inference time: 0.6989464689977467
+              precision    recall  f1-score   support
+
+       False      0.833     0.909     0.870        11
+        True      0.964     0.931     0.947        29
+
+    accuracy                          0.925        40
+   macro avg      0.899     0.920     0.908        40
+weighted avg      0.928     0.925     0.926        40
